@@ -37,7 +37,7 @@ This project demonstrates the application of various machine learning algorithms
 
 2. Create a virtual environment (optional but recommended):
    ```
-   python -m venv venv
+   python3 -m venv venv
    venv\Scripts\activate  # On Windows
    source venv/bin/activate  # On macOS/Linux
    ```
